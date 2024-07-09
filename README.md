@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Efeitos da Tecnologia no Mundo
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O meu projeto foi feito utilizando um script gerado e sumarizado pelo ChatGPT, avatar e video foram produzidos através da plataforma HeyGen, para fins didáticos. O nome do meu avatar é Organa. Utilizei esse assunto sobre os efeitos da tecnologia no mundo, pois estão havendo muitos debates sobre como a tecnologia tem impactado nossas sociedades e se de fato isso pode ser saudável ou não. O video é uma introdução e explicação bem resumida, mas espero que esse assunto seja pensado com carinho e atenção por cada um de nós. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+HeyGen, ElevenLab e ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Gerei através do ChatGPT um resumo sobre o tema abordado, introduzi a apresentação, inseri o script na plataforma ElevenLab, fiz o download da descrição em audio, fiz upload do audio no HeyGen e mesclei com um avatar pré-criado.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Com as tecnologias disponiveis atualmente fica muito facil desenvolver projetos que se distanciam da realidade, mas que, se usados com moderação, podem fazer muito bem para determinados projetos. Sim, as vezes é dificil diferenciar o fake do natural.
 ```
 
 ### Exemplos e Insigths
