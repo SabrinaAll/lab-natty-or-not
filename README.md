@@ -37,7 +37,7 @@ Gerei através do ChatGPT um resumo sobre o tema abordado, introduzi a apresenta
 
 ## 🚀 Resultados
 O resultado foi um vídeo curtos de 51 segundos, com conteúdo conciso, para instigar o conhecimento desse assunto!
-[LINK PARA O PODCAST AQUI](https://www.linkedin.com/feed/update/urn:li:activity:7216872537392111616/)
+[Vídeo (Avatar Virtual)]([/exemplos/VIDEO.md](https://www.linkedin.com/feed/update/urn:li:activity:7216872537392111616/))
 
 ## 💭 Reflexão (Opcional)
 Com as tecnologias disponiveis atualmente fica muito facil desenvolver projetos que se distanciam da realidade, mas que, se usados com moderação, podem fazer muito bem para determinados projetos. Sim, as vezes é dificil diferenciar o fake do natural.
