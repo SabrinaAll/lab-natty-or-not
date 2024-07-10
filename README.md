@@ -22,7 +22,6 @@ Olá pessoal, aqui é a Gabriela! Estou super empolgada em apresentar a vocês u
 
 ### Template
 
-```markdown
 # Efeitos da Tecnologia no Mundo
 
 ## 📒 Descrição
@@ -40,8 +39,8 @@ O resultado foi um vídeo curtos de 51 segundos, com conteúdo conciso, para ins
 [Vídeo (Avatar Virtual)]([/exemplos/VIDEO.md](https://www.linkedin.com/feed/update/urn:li:activity:7216872537392111616/))
 
 ## 💭 Reflexão (Opcional)
+Com as tecnologias disponiveis atualmente fica muito facil desenvolver projetos que se distanciam da realidade, mas que, se usados com moderação, podem fazer muito bem para determinados projetos. Sim, as vezes é dificil diferenciar o fake do natural.## 💭 Reflexão (Opcional)
 Com as tecnologias disponiveis atualmente fica muito facil desenvolver projetos que se distanciam da realidade, mas que, se usados com moderação, podem fazer muito bem para determinados projetos. Sim, as vezes é dificil diferenciar o fake do natural.
-```
 
 ### Exemplos e Insigths
 
