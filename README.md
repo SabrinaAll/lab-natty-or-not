@@ -33,6 +33,7 @@ HeyGen, ElevenLab e ChatGPT
 
 ## 🧐 Processo de Criação
 Gerei através do ChatGPT um resumo sobre o tema abordado, introduzi a apresentação, inseri o script na plataforma ElevenLab, fiz o download da descrição em audio, fiz upload do audio no HeyGen e mesclei com um avatar pré-criado.
+"ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "ElevenLabs" ajudou a criar uma voz sintética envolvente para a narraçã.
 
 ## 🚀 Resultados
 Um vídeo curtos de 51 segundos
